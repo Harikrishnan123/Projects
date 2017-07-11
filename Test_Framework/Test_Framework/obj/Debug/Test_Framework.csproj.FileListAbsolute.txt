@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\Test_Framework.dll
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\Test_Framework.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\nunit.framework.dll
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\nunit.framework.xml
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\obj\Debug\Test_Framework.dll
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\obj\Debug\Test_Framework.pdb
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\RelevantCodes.ExtentReports.dll
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\WebDriver.dll
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\bin\Debug\WebDriver.xml
+c:\users\acer\documents\visual studio 2017\Projects\Test_Framework\Test_Framework\obj\Debug\Test_Framework.csprojResolveAssemblyReference.cache
